@@ -1,0 +1,11 @@
+{
+    "itemsToAdd": ["Sauce Labs Backpack", "Sauce Labs Bike Light"],
+    "itemToRemove": "Sauce Labs Bike Light",
+    "checkout": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "postalCode": "12345"
+    },
+    "expectedConfirmation": "Thank you for your order!",
+    "expectedDispatchMessage": "Your order has been dispatched"
+}
