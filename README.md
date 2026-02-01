@@ -33,7 +33,7 @@
 
     ```bash
     git clone <your-repository-url>
-    cd playwright-scaffold
+    cd saucedemo
     ```
 
 2. **Install dependencies:**
